@@ -6,7 +6,7 @@ Meus projetos são majoritariamente voltados para ambientes Linux e, em sua maio
 
 Minha principal linguagem de programação é **Bash**. Também possuo alguns projetos em **Perl**, desenvolvidos principalmente por curiosidade e interesse em aprendizado. Entretanto, a maior parte dos meus projetos utiliza Shell Script.
 
-A maior parte dos meus scripts está relacionada a:
+A maior parte dos meus scripts estão relacionados a:
 
 - Cibersegurança (Blue Team);
 - Terminal e Shell;
